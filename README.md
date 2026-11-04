@@ -16,26 +16,38 @@
 
 ---
 
-### 🔨 What I'm working on
+### 🔨 What I do
 
-- **AI systems in production** – document processing pipelines, hybrid search (Elasticsearch + embeddings), LLM workflows, and automation that replaces manual back-office work
-- **Side projects** – [Tula Auth](https://tula-solutions.github.io/tula-auth-and-user-management/), a self-hostable auth and user management platform, plus multi-agent orchestration and a few app ideas just for fun
+- **AI systems in production** – document processing pipelines, hybrid search (Elasticsearch + embeddings), LLM workflows, MCP servers, and automation that replaces manual back-office work
+- **Full-stack products end to end** – typed APIs, auth and permissions, Postgres, web and desktop clients, containerized deploys
+- **10,000+ contributions on GitHub since 2016**, across 40+ repos from ML research to shipped products
 
 ### ⚡ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,py,bun,fastapi,postgres,react,aws,docker,kubernetes,elasticsearch,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,bun,nodejs,hono,fastapi,react,vite,tailwind,tauri,postgres,mysql,elasticsearch,docker,kubernetes,aws,githubactions,git,linux,unity&perline=11" />
 </p>
 
-**LLMs & Agents:** Claude API · OpenAI SDK · LangChain · RAG · prompt engineering · model fine-tuning · agent pipelines · MCP servers
-**Search & Data:** Elasticsearch · vector databases · embeddings · hybrid search · document AI · Postgres
-**Deep Learning:** GANs · computer vision · sentiment analysis · healthcare ML · Python
-**Conversational AI:** chatbots · VR voice tutor (Unity) · speech-driven conversational agents
-**Mobile:** React Native · Expo
+**LLMs & Agents:** Claude API · OpenAI SDK + Agents SDK · LangChain · RAG · prompt engineering · model fine-tuning · tool use · multi-agent orchestration · MCP servers
+**Search & Data:** Elasticsearch · vector databases · embeddings · hybrid search · document AI (PDF/image parsing) · Postgres · Drizzle · SQLAlchemy
+**Backend:** TypeScript · Bun · Hono · Python · FastAPI · Pydantic/Zod · REST · JWT · WebAuthn/passkeys · Stripe
+**Frontend & Desktop:** React · Vite · Tailwind · React Router · Radix UI · XYFlow · Phaser · Tauri
+**Voice & Deep Learning:** GANs · computer vision · sentiment analysis · healthcare ML · text-to-speech (Kokoro, Piper) · VR voice tutor (Unity)
+**Infra & Tooling:** Docker · Docker Compose · Kubernetes · AWS · GitHub Actions · Biome/ESLint · pytest · Husky
 
-### 🔭 Currently exploring
+### 🚀 Selected work
 
-Voice agents (real-time STT/TTS) · multi-agent orchestration · LLM evals · Kubernetes operators
+| Project | What it is | Tech |
+| --- | --- | --- |
+| [**Tula Auth**](https://tula-solutions.github.io/tula-auth-and-user-management/) | Self-hostable auth and user management platform with passkeys | Bun · Hono · Drizzle · Postgres · React · WebAuthn · Tauri |
+| **Guildhall** | Multi-agent orchestration: a fleet of AI agents organized like a company (CEO, directors, managers, workers) on Claude Code | Claude · agents · TypeScript · XYFlow |
+| **Audiobook generator** | Turns PDFs, EPUBs and text into chaptered audiobooks, as a CLI and a web app | Python · FastAPI · Kokoro TTS · Stripe · Docker |
+| [**Work order management**](https://github.com/tejaspinjala/work-order-management) | Full-stack work order tracker with auth and role-based access | FastAPI · SQLAlchemy · React · Tailwind · Docker |
+| **Document + onboarding AI** | LLM pipelines that parse documents and automate merchant onboarding | Claude · OpenAI · Elasticsearch · Bun · MCP |
+
+### 🔭 Currently building and exploring
+
+**Closeline** (AI voice and sales agents) · real-time voice agents (STT/TTS) · LLM evals · Kubernetes operators
 
 ### 🎓 Background
 
