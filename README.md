@@ -1,16 +1,16 @@
 <h1 align="center">Hey, I'm Tejas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+AI+document+pipelines+%40+SignaPay;Hybrid+search+%2B+LLM+systems+in+production;TypeScript+%C2%B7+Python+%C2%B7+Postgres;Shipping+side+projects+on+nights+%26+weekends" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+ship;Hybrid+search+%2B+LLM+systems+in+production;TypeScript+%C2%B7+Python+%C2%B7+Postgres;Shipping+side+projects+on+nights+%26+weekends" />
 </p>
 
 <p align="center">
-  Software developer @ SignaPay building AI systems that actually ship.<br/>
+  Software developer building AI systems that actually ship.<br/>
   Dallas, TX · MS Intelligent Systems @ UT Dallas
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tejaspinjala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tejas.pinjala@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -18,8 +18,8 @@
 
 ### 🔨 What I'm working on
 
-- **[SignaPay](https://github.com/signapay)** – building AI-powered document processing pipelines, hybrid search (Elasticsearch + embeddings), permissions infrastructure, and **SNAP**, our merchant onboarding automation
-- **Side projects** – on nights and weekends I tinker with a self-hostable auth platform ([Tula](https://github.com/Tula-Solutions)), multi-agent orchestration, and a few app ideas just for fun
+- **AI systems in production** – document processing pipelines, hybrid search (Elasticsearch + embeddings), LLM workflows, and automation that replaces manual back-office work
+- **Side projects** – [Tula Auth](https://tula-solutions.github.io/tula-auth-and-user-management/), a self-hostable auth and user management platform, plus multi-agent orchestration and a few app ideas just for fun
 
 ### ⚡ Stack
 
@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/tejaspinjala?style=for-the-badge&logo=github&color=238636&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/commit-activity/y/tejaspinjala/tula?style=for-the-badge&logo=git&logoColor=white&label=tula%20commits%2Fyr&color=238636&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/commit-activity/y/tejaspinjala/tula?style=for-the-badge&logo=git&logoColor=white&label=commits%2Fyr&color=238636&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=tejaspinjala&style=for-the-badge&color=238636&labelColor=0d1117&label=PROFILE+VIEWS" />
 </p>
 
