@@ -30,24 +30,25 @@
 
 **LLMs & Agents:** Claude API · OpenAI SDK + Agents SDK · LangChain · RAG · prompt engineering · model fine-tuning · tool use · multi-agent orchestration · MCP servers
 **Search & Data:** Elasticsearch · vector databases · embeddings · hybrid search · document AI (PDF/image parsing) · Postgres · Drizzle · SQLAlchemy
-**Backend:** TypeScript · Bun · Hono · Python · FastAPI · Pydantic/Zod · REST · JWT · WebAuthn/passkeys · Stripe
-**Frontend & Desktop:** React · Vite · Tailwind · React Router · Radix UI · XYFlow · Phaser · Tauri
-**Voice & Deep Learning:** GANs · computer vision · sentiment analysis · healthcare ML · text-to-speech (Kokoro, Piper) · VR voice tutor (Unity)
-**Infra & Tooling:** Docker · Docker Compose · Kubernetes · AWS · GitHub Actions · Biome/ESLint · pytest · Husky
+**Backend:** TypeScript · Bun · Hono · Python · FastAPI · Pydantic/Zod · OpenAPI · REST · JWT · WebAuthn/passkeys · Stripe · multi-service architecture
+**Frontend & Desktop:** React · Vite · Tailwind · TanStack Router/Query · React Router · Radix UI · XYFlow · Phaser · Tauri · Sentry
+**Voice & Deep Learning:** GANs · computer vision · sentiment analysis · healthcare ML · voice agents · telephony (Twilio Voice) · text-to-speech (Kokoro, Piper) · VR voice tutor (Unity)
+**Infra & Tooling:** AWS (CDK, KMS) · multi-region deploys · Docker · Docker Compose · Kubernetes · GitHub Actions · Biome/ESLint · pytest · Husky
 
 ### 🚀 Selected work
 
 | Project | What it is | Tech |
 | --- | --- | --- |
+| [**Closeline**](https://github.com/Tula-Solutions/tula-closeline) | AI sales platform built as a set of services: inbound voice agents and rep copilot with a softphone, outbound campaigns across email, LinkedIn and messaging, orgs/teams/roles, billing and metering, and a dashboard web app | Bun · Hono · Drizzle · Zod/OpenAPI · React · TanStack · Twilio Voice · AWS CDK |
 | [**Tula Auth**](https://tula-solutions.github.io/tula-auth-and-user-management/) | Self-hostable auth and user management platform with passkeys | Bun · Hono · Drizzle · Postgres · React · WebAuthn · Tauri |
 | **Guildhall** | Multi-agent orchestration: a fleet of AI agents organized like a company (CEO, directors, managers, workers) on Claude Code | Claude · agents · TypeScript · XYFlow |
 | **Audiobook generator** | Turns PDFs, EPUBs and text into chaptered audiobooks, as a CLI and a web app | Python · FastAPI · Kokoro TTS · Stripe · Docker |
 | [**Work order management**](https://github.com/tejaspinjala/work-order-management) | Full-stack work order tracker with auth and role-based access | FastAPI · SQLAlchemy · React · Tailwind · Docker |
 | **Document + onboarding AI** | LLM pipelines that parse documents and automate merchant onboarding | Claude · OpenAI · Elasticsearch · Bun · MCP |
 
-### 🔭 Currently building and exploring
+### 🔭 Currently exploring
 
-**Closeline** (AI voice and sales agents) · real-time voice agents (STT/TTS) · LLM evals · Kubernetes operators
+LLM evals · real-time voice agent latency · Kubernetes operators
 
 ### 🎓 Background
 
