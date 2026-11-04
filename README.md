@@ -1,16 +1,62 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Tejas%20Pinjala&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%20Systems&descAlignY=60&descSize=20" />
+</p>
 
-<!--
-**tejaspinjala/tejaspinjala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+AI+document+pipelines+%40+SignaPay;Hybrid+search+%2B+LLM+systems+in+production;TypeScript+%C2%B7+Python+%C2%B7+Postgres;Shipping+side+projects+on+nights+%26+weekends" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Software developer @ SignaPay building AI systems that actually ship.<br/>
+  Dallas, TX · MS Intelligent Systems @ UT Dallas
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tejas.pinjala@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔨 What I'm working on
+
+- **[SignaPay](https://github.com/signapay)** – building AI-powered document processing pipelines, hybrid search (Elasticsearch + embeddings), permissions infrastructure, and **SNAP**, our merchant onboarding automation
+- **Side projects** – on nights and weekends I tinker with a self-hostable auth platform ([Tula](https://github.com/Tula-Solutions)), multi-agent orchestration, and a few app ideas just for fun
+
+### ⚡ Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,py,bun,fastapi,postgres,react,aws,docker,kubernetes,elasticsearch,git&perline=11" />
+</p>
+
+**AI / LLM:** Claude API · OpenAI SDK · LangChain · vector databases · RAG · document AI · agent pipelines
+**Mobile:** React Native · Expo
+
+### 🎓 Background
+
+- MS Intelligent Systems + BS Computer Science, UT Dallas
+- Founded and led the **Generative AI Club** at UTD, grew it to ~200 active members and ran workshops teaching gen AI
+- Research in healthcare ML, GAN-based image systems, and a VR conversational AI language tutor
+
+### 📊 GitHub stats (live)
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tejaspinjala&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspinjala&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tejaspinjala&theme=github-dark-blue&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaspinjala&theme=github-compact&hide_border=true&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tejaspinjala&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+</p>
+
+---
+
+<p align="center"><i>Open to interesting problems in AI engineering. Say hi.</i></p>
