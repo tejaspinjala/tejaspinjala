@@ -27,8 +27,15 @@
   <img src="https://skillicons.dev/icons?i=ts,py,bun,fastapi,postgres,react,aws,docker,kubernetes,elasticsearch,git&perline=11" />
 </p>
 
-**AI / LLM:** Claude API · OpenAI SDK · LangChain · vector databases · RAG · document AI · agent pipelines
+**LLMs & Agents:** Claude API · OpenAI SDK · LangChain · RAG · prompt engineering · model fine-tuning · agent pipelines · MCP servers
+**Search & Data:** Elasticsearch · vector databases · embeddings · hybrid search · document AI · Postgres
+**Deep Learning:** GANs · computer vision · sentiment analysis · healthcare ML · Python
+**Conversational AI:** chatbots · VR voice tutor (Unity) · speech-driven conversational agents
 **Mobile:** React Native · Expo
+
+### 🔭 Currently exploring
+
+Voice agents (real-time STT/TTS) · multi-agent orchestration · LLM evals · Kubernetes operators
 
 ### 🎓 Background
 
