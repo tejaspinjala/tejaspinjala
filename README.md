@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Tejas%20Pinjala&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%20Systems&descAlignY=60&descSize=20" />
-</p>
+<h1 align="center">Hey, I'm Tejas 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+AI+document+pipelines+%40+SignaPay;Hybrid+search+%2B+LLM+systems+in+production;TypeScript+%C2%B7+Python+%C2%B7+Postgres;Shipping+side+projects+on+nights+%26+weekends" />
@@ -41,8 +39,9 @@
 ### 📊 GitHub stats (live)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tejaspinjala&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaspinjala&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://img.shields.io/github/followers/tejaspinjala?style=for-the-badge&logo=github&color=238636&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/commit-activity/y/tejaspinjala/tula?style=for-the-badge&logo=git&logoColor=white&label=tula%20commits%2Fyr&color=238636&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=tejaspinjala&style=for-the-badge&color=238636&labelColor=0d1117&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
@@ -50,11 +49,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejaspinjala&theme=github-compact&hide_border=true&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tejaspinjala&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=tejaspinjala&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tejaspinjala&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
